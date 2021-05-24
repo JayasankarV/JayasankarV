@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JayasankarV
 - 👀 I’m interested in mobile app development
 - 🌱 I’m currently learning cross platform development
-- 💞️ I’m looking to collaborate on simple ideas which brings good impact
+- 💞️ I’m looking to collaborate on simple ideas which bring big impact
 - 📫 How to reach me on jaisankararayidathu@gmail.com
 
 <!---
